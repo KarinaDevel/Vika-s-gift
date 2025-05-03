@@ -9,7 +9,7 @@ function SideBar(){
 
     const pages = [
         <div className="gratulationgs">
-            <img className='logo' src="./imgs/logo-princess.png" alt="princess-logo" />
+            <img className='logo' src="/imgs/logo-princess.png" alt="princess-logo" />
             <h2>Dear, Victoria</h2>
             <p className='gratul-text'>
             Викусяяяяяяя, приветики, в качестве подарка я тебе создала сайт и я большe чем уверенна, что тебе такое еще никогда не делали и этот подарок переплюнет ВСЕХ (кроме телефона). НЕ ОТРЫВАЙ ЭТОТ САЙТ ПОКА НА ТЕЛЕФОНЕ. Я потом доделаю все (просто я не успеваю) ИНАЧЕ ЭТО БУДЕТ КРАХ МОЕЙ КАРЬЕРЫ. Хочу пожелать тебе невероятных эмоций в твой день рождения, И ЧТОБЫ НЕ ПЛАКАЛА МНЕ СЕГОДНЯ !!!! Я ТУТ СТАРАЛАСЬ ЧТОБЫ ТЕБЕ БЫЛО ХИ-ХИ-ХА-ХА А НЕ ПЛАКИ-ПЛАКИ !!!
@@ -19,35 +19,35 @@ function SideBar(){
         </div>,
         <div className="chat-hison">
            <div className="hison-img-wrapper">
-                <img className='photo-hison' src="./imgs/start.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/с1.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/с2.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/с3.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/с4.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/с5.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/с6.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/с7.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/с8.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/с9.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/с10.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/с11.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/п1.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/п2.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/п3.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/п4.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/п5.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/п6.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/п7.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/п8.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/п9.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/б1.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/б2.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/б3.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/б4.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/б5.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/б6.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/б7.jpg" alt="" />
-                <img className='photo-hison' src="./imgs/б8.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/start.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/с1.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/с2.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/с3.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/с4.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/с5.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/с6.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/с7.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/с8.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/с9.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/с10.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/с11.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/п1.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/п2.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/п3.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/п4.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/п5.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/п6.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/п7.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/п8.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/п9.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/б1.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/б2.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/б3.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/б4.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/б5.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/б6.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/б7.jpg" alt="" />
+                <img className='photo-hison' src="/imgs/б8.jpg" alt="" />
            </div>
         </div>,
 
@@ -132,67 +132,67 @@ function SideBar(){
             <div className="assoc-container">
             <div className="assoc-wrapper">
                 <p>Animal:</p>
-                <img className='assoc-photo' src="./imgs/as1.jpg" alt="" />
+                <img className='assoc-photo' src="/imgs/as1.jpg" alt="" />
             </div>
             <div className="assoc-wrapper">
                 <p>Anime:</p>
-                <img className="assoc-photo" src="./imgs/as2.jpg" alt="" />
+                <img className="assoc-photo" src="/imgs/as2.jpg" alt="" />
             </div>
             <div className="assoc-wrapper">
                 <p>Song:</p>
-                <img className="assoc-photo" src="./imgs/as3.jpeg" alt="" />
+                <img className="assoc-photo" src="/imgs/as3.jpeg" alt="" />
             </div>
             <div className="assoc-wrapper">
                 <p>Country:</p>
-                <img className="assoc-photo" src="./imgs/as4.jpg" alt="" />
+                <img className="assoc-photo" src="/imgs/as4.jpg" alt="" />
             </div>
             <div className="assoc-wrapper">
                 <p>School subject:</p>
-                <img className="assoc-photo" src="./imgs/as5.jpg" alt="" />
+                <img className="assoc-photo" src="/imgs/as5.jpg" alt="" />
             </div>
             <div className="assoc-wrapper">
                 <p>Emotion:</p>
-                <img className="assoc-photo" src="./imgs/as6.jpg" alt="" />
+                <img className="assoc-photo" src="/imgs/as6.jpg" alt="" />
             </div>
             <div className="assoc-wrapper">
                 <p>Thing in nature:</p>
-                <img className="assoc-photo" src="./imgs/as7.jpg" alt="" />
+                <img className="assoc-photo" src="/imgs/as7.jpg" alt="" />
             </div>
             <div className="assoc-wrapper">
                 <p>Movie character:</p>
-                <img className="assoc-photo" src="./imgs/as8.webp" alt="" />
+                <img className="assoc-photo" src="/imgs/as8.webp" alt="" />
             </div>
             <div className="assoc-wrapper">
                 <p>Color:</p>
-                <img className="assoc-photo" src="./imgs/as9.png" alt="" />
+                <img className="assoc-photo" src="/imgs/as9.png" alt="" />
             </div>
             <div className="assoc-wrapper">
                 <p>Drink:</p>
-                <img className="assoc-photo" src="./imgs/as10.png" alt="" />
+                <img className="assoc-photo" src="/imgs/as10.png" alt="" />
             </div>
             <div className="assoc-wrapper">
                 <p>Food:</p>
-                <img className="assoc-photo" src="./imgs/as11.jpg" alt="" />
+                <img className="assoc-photo" src="/imgs/as11.jpg" alt="" />
             </div>
             <div className="assoc-wrapper">
                 <p>Activity:</p>
-                <img className="assoc-photo" src="./imgs/as12.jpg" alt="" />
+                <img className="assoc-photo" src="/imgs/as12.jpg" alt="" />
             </div>
             <div className="assoc-wrapper">
                 <p>Smell:</p>
-                <img className="assoc-photo" src="./imgs/as13.webp" alt="" />
+                <img className="assoc-photo" src="/imgs/as13.webp" alt="" />
             </div>
             <div className="assoc-wrapper">
                 <p>Furniture:</p>
-                <img className="assoc-photo" src="./imgs/as14.png" alt="" />
+                <img className="assoc-photo" src="/imgs/as14.png" alt="" />
             </div>
             <div className="assoc-wrapper">
                 <p>Anime chracter:</p>
-                <img className="assoc-photo" src="./imgs/as15.jpg" alt="" />
+                <img className="assoc-photo" src="/imgs/as15.jpg" alt="" />
             </div>
             <div className="assoc-wrapper">
                 <p>Photo in my gallery:</p>
-                <img className="assoc-photo" src="./imgs/as16.jpg" alt="" />
+                <img className="assoc-photo" src="/imgs/as16.jpg" alt="" />
             </div>
             </div>
         </div>,
@@ -279,17 +279,17 @@ function SideBar(){
         <div className="photos">
             <h2>Совместные фоточки</h2>
             <div className="wrapper-ph">
-                <img  className="photo" src="./imgs/1.jpg" alt="" />
-                <img  className="photo" src="./imgs/2.jpg" alt="" />
-                <img  className="photo" src="./imgs/3.jpg" alt="" />
-                <img  className="photo" src="./imgs/4.jpg" alt="" />
-                <img  className="photo" src="./imgs/5.jpg" alt="" />
-                <img  className="photo" src="./imgs/6.jpg" alt="" />
-                <img  className="photo" src="./imgs/7.jpg" alt="" />
-                <img  className="photo" src="./imgs/8.jpg" alt="" />
-                <img  className="photo" src="./imgs/9.png" alt="" />
-                <img  className="photo" src="./imgs/10.jpg" alt="" />
-                <img  className="photo" src="./imgs/11.png" alt="" />
+                <img  className="photo" src="/imgs/1.jpg" alt="" />
+                <img  className="photo" src="/imgs/2.jpg" alt="" />
+                <img  className="photo" src="/imgs/3.jpg" alt="" />
+                <img  className="photo" src="/imgs/4.jpg" alt="" />
+                <img  className="photo" src="/imgs/5.jpg" alt="" />
+                <img  className="photo" src="/imgs/6.jpg" alt="" />
+                <img  className="photo" src="/imgs/7.jpg" alt="" />
+                <img  className="photo" src="/imgs/8.jpg" alt="" />
+                <img  className="photo" src="/imgs/9.png" alt="" />
+                <img  className="photo" src="/imgs/10.jpg" alt="" />
+                <img  className="photo" src="/imgs/11.png" alt="" />
             </div>
         </div>,
     ];
